@@ -1,0 +1,16 @@
+# Raw data (too large for GitHub / download separately)
+data/combined_data_1.txt
+data/combined_data_*.txt
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

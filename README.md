@@ -44,7 +44,7 @@ outputs/     generated charts and recommendation CSV
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/netflix-recommendation-engine.git
+git clone https://github.com/Sarthak-Bajpai-1/netflix-recommendation-engine.git
 cd netflix-recommendation-engine
 pip install -r requirements.txt
 ```
